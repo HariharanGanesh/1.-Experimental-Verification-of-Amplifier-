@@ -237,8 +237,6 @@ PROCEDURE:
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 22 07 04_0c0f08eb](https://github.com/user-attachments/assets/9c616364-7706-466d-a52e-e6f0ca21ebeb)
 
-
----
 ## RESULT
 Thus, the **Inverting**, **Non-Inverting**, **Differential**, and **Instrumentation Amplifiers** were designed and their performance successfully tested using Op-Amp IC 741.
 
